@@ -1,3 +1,3 @@
 # hello-world
-Starting out
+Starting out.
 I am a retired Police Officer.
